@@ -25,6 +25,7 @@ public class gradCalcu {
             System.out.println("Your grade is CC..");
         }else{
             System.out.println("Sorry you failed...");
+
         }
     }
 }
